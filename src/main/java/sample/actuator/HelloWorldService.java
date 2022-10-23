@@ -23,7 +23,7 @@ public class HelloWorldService {
 
 	
 
-	public String getHelloMessage() {
+	public String getHelloMessage_() {
 		return "Spring boot says hello from a Docker container";
 	}
 
